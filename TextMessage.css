@@ -39,8 +39,10 @@
 
 .TextMessage {
   position:absolute;
-  top:62%;
+  top:76%;
   bottom:27%;
+  left:2%;
+  right:2%;
 }
 
 .TextMessage_button {
@@ -82,10 +84,10 @@
 
 .TextMessageImageDiv{
 position:absolute;
-margin-top:-390px;
+margin-top:350px;
 border:3px solid white;
 height:136px;
-right:100px;
+right:17px;
 width:136px;
 display:flex;
 
@@ -101,8 +103,9 @@ height:110px;
 }
 .TextMessageName{
   position:absolute;
-margin-top:-310px;
+margin-top:430px;
 border:3px solid white;
+left:6px;
 height:36px;
 min-width:111px;
 padding:25px 10px;
